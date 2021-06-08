@@ -1,0 +1,58 @@
+header{
+    background-color: #fdbb40;
+    height: 150px;
+    margin-bottom: 50px;
+}
+
+#text-burger{
+    border: none;
+    font-size: 50px;
+    margin-bottom: 50px;
+}
+
+h2{
+    margin-bottom: 25px;
+}
+
+.ingredients{
+    margin-bottom: 15px;
+}
+
+span > img{
+    width: 50px;
+}
+
+label{
+    color: red;
+}
+
+span{
+    font-weight: bold;
+}
+
+.discount{
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+.discount > input{
+    background-color: rgb(255, 255, 173);
+    border: none;
+    margin-left: 20px;
+}
+
+.btn-warning{
+    font-weight: bold;
+    width: 150px;
+    margin-bottom: 200px;
+}
+
+.calc{
+    text-align: center;
+}
+
+footer{
+    background-color: #d33359;
+    height: 100px;
+    color: white;
+    font-size: 40px;
+}
